@@ -9,8 +9,6 @@
 
 ### ☝ Evoluindo a cada dia ☝
 
-
-
 ## Tecnologias que trabalho em meu dia a dia!
 
 ### Linguagens de Programação
@@ -20,6 +18,7 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ### Frameworks e Plataformas
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
@@ -29,3 +28,6 @@
 ### Ferramentas e Sistemas Operacionais
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+- 🌟 [GIF Interativo](https://media.giphy.com/media/Yl5aO3gdVfsQ0/giphy.gif)
+- ⚡️ [Badge Personalizada](https://img.shields.io/badge/Criativo-Awesome-C13584?style=for-the-badge&labelColor=black)
