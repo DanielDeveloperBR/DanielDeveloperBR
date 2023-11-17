@@ -5,7 +5,7 @@
 <a href="mailto:danieldetrabalho@hotmail.com?subject=subject text"><img src="	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://wa.me/5521967782777?text=Olá, Daniel! Cheguei Aqui Pelo Seu GitHub!"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 ### Este é o meu status atualizado!
-![Daniel GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielDeveloperBR&show_icons=true&theme=radical)
+Daniel GitHub stats https://github-readme-stats.vercel.app/api?username=DanielDeveloperBR&show_icons=true&theme=radical
 <h3>☝Evoluindo a cada dia☝</h3>
 <p>.<p>
 </div>
