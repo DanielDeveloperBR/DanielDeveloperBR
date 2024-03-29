@@ -1,4 +1,4 @@
-# Olá! Eu Sou Daniel e Seja bem-vindo ao meu GitHub 👋
+# Olá! Eu Sou Daniel S, Desenvolvedor Full Stack e Seja bem-vindo ao meu GitHub 👋
 
 ## Meu portfólio
 [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://github.com/DanielDeveloperBR/meuPortfolio)
