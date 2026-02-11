@@ -55,12 +55,6 @@ https://manualdodaniel.com.br
 
 ---
 
-## GitHub Stats
-
-![Daniel GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielDeveloperBR&show_icons=true&theme=radical)
-
----
-
 ## Foco Técnico
 
 - Estruturação de APIs REST
