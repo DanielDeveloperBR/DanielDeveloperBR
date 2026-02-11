@@ -1,37 +1,72 @@
-# Olá! Eu Sou Daniel S, Desenvolvedor Full Stack e Seja bem-vindo ao meu GitHub 👋
+# Daniel Souza
 
-## Meu portfólio
-[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://github.com/DanielDeveloperBR/meuPortfolio)
+Full Stack Developer focado em construção de aplicações web completas, arquitetura organizada e entrega real.
 
+Desenvolvo sistemas do frontend ao backend com responsabilidade técnica, preocupação com segurança, modelagem de dados e estrutura escalável.
 
-## Contatos
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danieldetrabalho@hotmail.com?subject=Assunto)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5521967782777?text=Olá,%20Daniel!%20Cheguei%20Aqui%20Pelo%20Seu%20GitHub!)
+---
 
+## Portfólio
 
-## Este é o meu status atualizado!
-![Daniel GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielDeveloperBR&show_icons=true&theme=radical)
+https://manualdodaniel.com.br
 
-### ☝ Evoluindo a cada dia ☝
+---
 
-![GIF Interativo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHhtOHJ5Z3FoOW9vOWJpbHI3ZHhlNnJvOXM2eDQwYjQ0OTB4dWwwYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DUfyGJvh8p9kI/giphy.gif)
+## Contato
 
-## Tecnologias que trabalho em meu dia a dia!
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danieldetrabalho@hotmail.com?subject=Contato%20via%20GitHub)
 
-### Linguagens de Programação
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5521967782777?text=Olá%20Daniel,%20vim%20pelo%20seu%20GitHub!)
+
+---
+
+## Stack
+
+### Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-### Frameworks e Plataformas
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Ferramentas e Sistemas Operacionais
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+---
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+
+---
+
+### Banco de Dados & Backend Services
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+---
+
+### Infraestrutura & Ambiente
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PM2](https://img.shields.io/badge/PM2-2B037A?style=for-the-badge)
+
+---
+
+## GitHub Stats
+
+![Daniel GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielDeveloperBR&show_icons=true&theme=radical)
+
+---
+
+## Foco Técnico
+
+- Estruturação de APIs REST
+- Autenticação e controle de acesso
+- Modelagem de banco de dados
+- Organização de projeto escalável
+- Deploy em VPS Linux
+- Versionamento e controle de código
+
