@@ -22,8 +22,6 @@ Atuo no desenvolvimento e evolução de aplicações Full Stack, passando por fr
 
 Tenho experiência com sistemas existentes, implementação de novas regras de negócio, correção de regressões, autenticação e autorização, integração com APIs, modelagem de dados e deploy em Linux.
 
-Também venho aprofundando meus conhecimentos em **Java**, incluindo aplicações tradicionais e Java moderno.
-
 ---
 
 ## Stack principal
