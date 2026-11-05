@@ -6,7 +6,7 @@
 
 Desenvolvedor Full Stack com experiência em aplicações reais, atuando do frontend ao ambiente de produção.
 
-Trabalho com foco em **regras de negócio, segurança, manutenção, testes e código que continue sustentável depois do deploy**.
+Trabalho com foco em **regras de negócio, segurança, manutenção, testes, código sustentável e fácil de manter depois do deploy**.
 
 [![Portfolio](https://img.shields.io/badge/Portfólio-2C33FA?style=for-the-badge&logo=google-chrome&logoColor=white)](https://manualdodaniel.com.br)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/daniel-desenvolvedor)
@@ -94,6 +94,8 @@ Trabalho com regras de negócio, formulários técnicos, permissões, testes de 
 ### RPG Multiplayer
 
 Aplicação multiplayer utilizando **Node.js, Express e WebSocket**, com fila de jogadores, controle do estado da partida e sincronização de ações em tempo real.
+
+[Ver projeto online](https://rpg-online-v5tk.onrender.com/)
 
 ---
 
