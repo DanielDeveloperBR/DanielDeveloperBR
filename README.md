@@ -101,8 +101,8 @@ Aplicação multiplayer utilizando **Node.js, Express e WebSocket**, com fila de
 
 ### Vamos conversar?
 
-[![LinkedIn](...)](...)
-[![Portfolio](...)](...)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel_Souza-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/daniel-desenvolvedor)
+[![Portfolio](https://img.shields.io/badge/Portfolio-manualdodaniel.com.br-2C33FA?style=for-the-badge&logo=google-chrome&logoColor=white)](https://manualdodaniel.com.br)
 
 </div>
 
